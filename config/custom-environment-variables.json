@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey" : "JWT_PRIVATE_KEY",
+    "dbConStr" : "DB_CONNETION_STRING",
+    "fbClientID" : "FACEBOOK_CLIENT_ID",
+    "fbClientSecret" : "FACEBOOK_CLIENT_SECRET"
+}

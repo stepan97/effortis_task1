@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey" : "myJwtPrivateKey",
+    "dbConStr" : "mongodb://localhost:27017/effortis_task",
+    "fbClientID" : "id",
+    "fbClientSecret" : "secret"
+}

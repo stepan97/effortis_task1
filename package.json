@@ -1,0 +1,31 @@
+{
+  "name": "effortis_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.8.0"
+  },
+  "author": "Stepan Nikoghosyan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "compression": "^1.7.3",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "helmet": "^3.15.1",
+    "joi": "^14.3.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.10",
+    "rimraf": "^2.6.3",
+    "winston": "^3.2.1"
+  }
+}
